@@ -1,0 +1,4 @@
+floppya: 1_44=booth.bin, status=inserted, write_protected=1
+boot: floppy
+log: /dev/stdout
+sound: waveoutdrv=dummy
